@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yshungria-lab
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning MERN, PYTHON(POO, Flask, Django, MySQL, AJAX, etc).
+- 💞️ I’m looking to collaborate on FullStack Python or FullStack MERN.
+- 📫 How to reach me https://www.linkedin.com/in/ing-yojan-stiben-hungria/
